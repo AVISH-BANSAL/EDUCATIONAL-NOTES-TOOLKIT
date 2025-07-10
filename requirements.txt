@@ -1,0 +1,12 @@
+Requirements:-
+pip install torch torchvision torchaudio
+pip install transformers
+pip install pillow
+pip install pdf2image
+pip install opencv-python
+pip install pyspellchecker
+Also install:
+
+Poppler (for PDF to image conversion)
+
+🪟 Windows: Download from https://github.com/oschwartz10612/poppler-windows/releases
